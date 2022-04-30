@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\edureka_stuff\core\.metadata\.plugins\org.eclipse.jdt.core
+3572269421.index
+3437295331.index
+4163484497.index
+69548869.index

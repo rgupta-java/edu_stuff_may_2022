@@ -1,0 +1,10 @@
+package com.demo;
+
+public class Tester {
+
+	public static void main(String[] args) {
+		Passanger passanger=new Passanger();
+		passanger.setName("rama");
+		passanger.travel();
+	}
+}
