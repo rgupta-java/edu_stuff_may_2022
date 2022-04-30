@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="03-spring-basics-annotation-java-config"/>
+<aop-project name="04-spring-basics-with-java-config"/>
+<aop-project name="01-spring-basics"/>
+<aop-project name="02-spring-basics-annotation"/>
+</aop-reference-model>
