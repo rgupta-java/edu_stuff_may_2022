@@ -43,11 +43,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.banakpp"/>
 			<item value="com.demo"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="06-bankapp-xml"/>
 			<item value="01-spring-basics"/>
 		</list>
 		<list key="projectNameTemplate">

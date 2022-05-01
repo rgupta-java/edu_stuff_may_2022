@@ -1,8 +1,0 @@
-package com.config;
-
-import org.springframework.context.annotation.Configuration;
-
-@Configuration	//hey i want to take this class a a config class
-
-public class AppConfig {
-}

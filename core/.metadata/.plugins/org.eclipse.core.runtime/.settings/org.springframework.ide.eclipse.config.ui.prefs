@@ -2,5 +2,8 @@
 //com.springsource.config.ui.prefs.activePageIndex\:/02-spring-basics-annotation/src/main/resources/demo.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/03-spring-basics-annotation-java-config/src/main/resources/demo.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/04-spring-basics-with-java-config/src/main/resources/demo.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/06-bankapp-xml/src/main/resources/bank.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/07-bankapp-xml-aop/src/main/resources/bank.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/08-bankapp-xml-aop-java-config/src/main/resources/bank.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 com.springsource.config.ui.prefs.tabs.dialog=always
 eclipse.preferences.version=1
