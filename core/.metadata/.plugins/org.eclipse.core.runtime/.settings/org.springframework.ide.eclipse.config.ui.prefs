@@ -5,5 +5,6 @@
 //com.springsource.config.ui.prefs.activePageIndex\:/06-bankapp-xml/src/main/resources/bank.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/07-bankapp-xml-aop/src/main/resources/bank.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/08-bankapp-xml-aop-java-config/src/main/resources/bank.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/09-bankapp-done-last-time/src/main/resources/bank.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 com.springsource.config.ui.prefs.tabs.dialog=always
 eclipse.preferences.version=1

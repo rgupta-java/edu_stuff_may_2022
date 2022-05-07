@@ -3,6 +3,7 @@
 <aop-project name="03-spring-basics-annotation-java-config"/>
 <aop-project name="04-spring-basics-with-java-config"/>
 <aop-project name="08-bankapp-xml-aop-java-config"/>
+<aop-project name="09-bankapp-done-last-time"/>
 <aop-project name="05-spring-logging"/>
 <aop-project name="07-bankapp-xml-aop"/>
 <aop-project name="01-spring-basics"/>
