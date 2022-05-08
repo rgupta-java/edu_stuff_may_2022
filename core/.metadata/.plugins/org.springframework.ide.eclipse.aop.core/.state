@@ -5,8 +5,11 @@
 <aop-project name="08-bankapp-xml-aop-java-config"/>
 <aop-project name="09-bankapp-done-last-time"/>
 <aop-project name="05-spring-logging"/>
+<aop-project name="spring-boot"/>
+<aop-project name="02-spring-basics-annotation"/>
+<aop-project name="12-bankapp-jdbc"/>
 <aop-project name="07-bankapp-xml-aop"/>
 <aop-project name="01-spring-basics"/>
-<aop-project name="02-spring-basics-annotation"/>
 <aop-project name="06-bankapp-xml"/>
+<aop-project name="13-bankapp-jdbc-java-config"/>
 </aop-reference-model>
