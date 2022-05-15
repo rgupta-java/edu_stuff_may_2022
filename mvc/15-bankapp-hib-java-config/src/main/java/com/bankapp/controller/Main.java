@@ -19,6 +19,6 @@ public class Main {
 		AccountService accountService=(AccountService) ctx.getBean("bankservice");
 		
 		//List<Account> all = accountService.getAll();
-		accountService.transfer(1, 2, 500);
+		accountService.transfer(1, 2, 100);
 	}
 }

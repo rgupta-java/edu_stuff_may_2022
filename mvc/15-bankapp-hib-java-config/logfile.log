@@ -38,3 +38,7 @@ INFO  | 2022-05-08 21:56:37 | [main] hibernate.Version (Version.java:45) - HHH00
 INFO  | 2022-05-08 21:56:37 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
 INFO  | 2022-05-08 21:56:37 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
 INFO  | 2022-05-08 21:56:37 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2022-05-14 21:55:11 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2022-05-14 21:55:11 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2022-05-14 21:55:11 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2022-05-14 21:55:12 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
