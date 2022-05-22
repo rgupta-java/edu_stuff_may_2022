@@ -1,10 +1,22 @@
 package com.empapp.entities;
 
+import javax.persistence.CascadeType;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.OneToOne;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "parking_table_uni")
 public class Parking {
-	
+	@Id @GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int partingId;
 	private String parkingLocation;
 
+	@OneToOne(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
 	private Employee employee;
 
 	public int getPartingId() {

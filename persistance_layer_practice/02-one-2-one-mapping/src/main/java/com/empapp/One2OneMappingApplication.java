@@ -49,18 +49,19 @@ public class One2OneMappingApplication implements CommandLineRunner {
 //		employee4.setParking(parking4);
 //		employee5.setParking(parking5);
 		
-		employeeRepo.save(employee1);
-		employeeRepo.save(employee2);
-		employeeRepo.save(employee3);
-		employeeRepo.save(employee4);
-		employeeRepo.save(employee5);
-		
+//		employeeRepo.save(employee1);
+//		employeeRepo.save(employee2);
+//		employeeRepo.save(employee3);
+//		employeeRepo.save(employee4);
+//		employeeRepo.save(employee5);
+//		
 		parkingRepo.save(parking1);
 		parkingRepo.save(parking2);
 		parkingRepo.save(parking3);
 		parkingRepo.save(parking4);
 		parkingRepo.save(parking5);
 		
+		System.out.println("----------------------------");
 	
 	
 		
